@@ -1,4 +1,4 @@
-<img src="https://www.facebook.com/photo/?fbid=1519920791783406&set=a.122653851510114">
+<h2><img src="https://www.facebook.com/photo/?fbid=1519920791783406&set=a.122653851510114" alt="cover photo"></h2>
 
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Munna</h1>
 <h3 align="center">A passionate "MERN Stack" developer from Bangladesh❤</h3>
