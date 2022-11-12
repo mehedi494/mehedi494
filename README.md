@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Munna</h1>
 <h3 align="center">A passionate "MERN Stack" developer from Bangladesh❤</h3>
+<h4 align="center"><a href="https://resume-mehedi-hasan.netlify.app/">RESUME</a></h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi494" alt="mehedi494" /></a> </p>
 
