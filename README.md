@@ -1,10 +1,9 @@
-![](https://www.facebook.com/photo/?fbid=1519920791783406&set=a.122653851510114)
+![](https://i.ibb.co/N3NLqvc/my-cover-copy.png)
 
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Munna</h1>
 <h3 align="center">A passionate "MERN Stack" developer from Bangladesh❤</h3>
-<h4 align="center"><a href="https://resume-mehedi-hasan.netlify.app/">RESUME</a></h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi494" alt="mehedi494" /></a> </p>
+
 
 - 🔭 I’m currently working on **Heilo (under constraction)**
 
@@ -14,13 +13,15 @@
 
 - 📫 How to reach me **mehedihasan494@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences **https://resume-mehedi-hasan.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mehedi-hasan-287185158/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehedi-hasan-287185158/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/ehasan.munna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ehasan.munna" height="30" width="40" /></a>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi494&show_icons=true&locale=en&layout=compact" alt="mehedi494" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,4 +32,4 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mehedi494)  
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi494&show_icons=true&locale=en&layout=compact" alt="mehedi494" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi494" alt="mehedi494" /></a> </p>
