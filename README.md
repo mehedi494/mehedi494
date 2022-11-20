@@ -1,4 +1,4 @@
-![](https://i.ibb.co/N3NLqvc/my-cover-copy.png)
+<!-- ![](https://i.ibb.co/N3NLqvc/my-cover-copy.png) -->
 
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Munna</h1>
 <h3 align="center">A passionate "MERN Stack" developer from Bangladesh❤</h3>
