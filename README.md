@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mehedihasan494@gmail.com**
 
-- 📄 Know about my experiences **https://resume-mehedi-hasan.netlify.app/**
+- 📄 Know about my experiences **https://mehedi494.github.io/resume/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
