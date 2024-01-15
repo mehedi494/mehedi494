@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Mern Stack development**
 
-- 📫 How to reach me **mehedihasan494@gmail.com**
+- 📫 How to reach me **mehedihasan494@gmail.com  ||  mehedihasan.dev@outlook.com**
 
-- 📄 Know about my experiences **https://mehedi494.github.io/resume/**
+- 📄 Know about my experiences **[Portfolio](https://mehedi-official-portfolio-nextjs.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
